@@ -22,7 +22,7 @@ Features provided:
 -------------
 ## Output
 
-
+https://github.com/user-attachments/assets/dfd9c794-dda4-410d-8fb2-39acac526128
 
 It appeared to correctly detect the owl's right eye, based on the owl's actual (non-inverted) eye position.
 
@@ -30,7 +30,7 @@ It appeared to correctly detect the owl's right eye, based on the owl's actual (
 ### Steps 
 - Installed OpenCV library using the terminal
 - Launched VSCode through Anaconda
-- Used the Right Eye classifier as found on `` file, Adapted excisting code and editied it to fit the needs of the project found on '' file , and i used an Owl video as an input object for right eye detection.
+- Used the Right Eye classifier as found on the `haarcascade_righteye_2splits.xml` file, Adapted excisting code and editied it to fit the needs of the project found on 'RightEye Detector.py' file , and i used an Owl video as an input object for right eye detection.
 
 --------------
 References:
