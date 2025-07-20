@@ -22,7 +22,7 @@ Features provided:
 -------------
 ## Output
 
-https://github.com/user-attachments/assets/dfd9c794-dda4-410d-8fb2-39acac526128
+https://github.com/user-attachments/assets/8858c277-6016-4ece-a0b5-1f8d1f177b24
 
 It appeared to correctly detect the owl's right eye, based on the owl's actual (non-inverted) eye position.
 
